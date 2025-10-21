@@ -20,4 +20,4 @@ if i were you i would not use this for illegal stuff not out of moral policing,
 but because most browsers are packed with trackers and weak extensions that leak data anyway.  
 (none of this is encouragement for bad behavior, it is just practical advice.) Thus use it in a safe space.
 
-{Root control of logs and network. self hosting in a chosen jurisdiction. audit every layer. same code, more control. (not a how-to for breaking laws just the system design.)}
+{If you want root control of logs and network, need to self host in a specific jurisdiction, or want to audit every layer of the stack, run VoidNote on your own VPS or bare metal. same code, more control. (not a how to for breaking laws just the system design.)}
