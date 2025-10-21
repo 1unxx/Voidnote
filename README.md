@@ -1,7 +1,7 @@
-<p align="ce<img width="1024" height="1024" alt="sigil" src="https://github.com/user-attachments/assets/462684c1-eb68-4ddd-b1b7-b46a003219cc" />
+[<p align="ce<img width="1024" height="1024" alt="sigil" src="https://github.com/user-attachments/assets/462684c1-eb68-4ddd-b1b7-b46a003219cc" />
 nter">
   <img src="static/logo.png" width="100" alt="sigil.png">
-</p>
+</p>](https://raw.githubusercontent.com/1unxx/Voidnote/3e7f353ed5a47132809a11d73d3373ef811cde44/sigil.png)
 
 # VoidNote
 
