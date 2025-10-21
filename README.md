@@ -1,7 +1,13 @@
 # Voidnote[README.md](https://github.com/user-attachments/files/23010561/README.md)
 # VoidNote
+<p align="center">
+  <img src="static/logo.png" width="150" alt="sigil.png">
+</p>
 
-VoidNote is a small web project built around encrypted, self destructing “notes.”  
+# VoidNote
+
+VoidNote is a small web project built around encrypted, self destructing “notes.”  <img width="1024" height="1024" alt="sigil" src="https://github.com/user-attachments/assets/e22ffc30-9c28-40e9-87eb-c7c17e429f7b" />
+
 It is simple, private, and built during a one week deep dive after reading *Python Cryptography* by Anish Nath (2018)
 
 ### what it is for
