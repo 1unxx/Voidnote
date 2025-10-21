@@ -1,11 +1,11 @@
-<p align="center">
+<p align="ce<img width="1024" height="1024" alt="sigil" src="https://github.com/user-attachments/assets/462684c1-eb68-4ddd-b1b7-b46a003219cc" />
+nter">
   <img src="static/logo.png" width="100" alt="sigil.png">
 </p>
 
 # VoidNote
 
-VoidNote is a small project built around encrypted, self destructing “notes.”  
-It is simple, private, and was created after a one week deep dive into *Python Cryptography* by Anish Nath (2018).
+It is pretty simple, private, and came up with it during a one week deep dive after reading *Python Cryptography* by Anish Nath (2018) Like a while ago, I happened to stuble upon it today so I decided to upload it here as this account is dead.
 
 ### what it is for
 honestly it can be anything from passing along a password to letting a friend borrow your Steam account so they can finally play Resident Evil,  
