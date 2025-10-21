@@ -7,9 +7,9 @@
 It is pretty simple, private, and came up with it during a one week dive after reading *Python Cryptography* by Anish Nath (2018) Like a while ago, I happened to stuble upon it today so I decided to upload it here as this account is dead.
 
 ### what it is for
-honestly it can be anything from passing along a password to letting a friend borrow your Steam account so they can finally play Resident Evil,  
-to a private journalist transferring fragile material without leaving a trace.  
-use it when you want a message to exist only long enough to do its job, then vanish. >_>
+honestly it can be anything from passing along a password,  
+to a private journalist transferring fragile material.  
+use it when you want a message to exist only long enough to do its job >_>
 
 ### how it works
 you write → it encrypts → it gives you a link → they open it once → it burns.  
