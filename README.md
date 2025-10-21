@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/logo.png" width="140" alt="VoidNote logo">
+  <img src="static/logo.png" width="100" alt="sigil.png">
 </p>
 
 # VoidNote
