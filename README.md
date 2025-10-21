@@ -1,4 +1,4 @@
-[<p align="ce<img width="1024" height="1024" alt="sigil" src="https://github.com/user-attachments/assets/462684c1-eb68-4ddd-b1b7-b46a003219cc" />
+<img width="500" height="500" alt="sigil" src="https://github.com/user-attachments/assets/462684c1-eb68-4ddd-b1b7-b46a003219cc" />
   <img src="static/logo.png" width="100" alt="sigil.png">
 
 
