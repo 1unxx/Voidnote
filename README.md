@@ -1,8 +1,10 @@
-# Voidnote[README.md](https://github.com/user-attachments/files/23010561/README.md)
-# VoidNote
 <p align="center">
-  <img src="static/logo.png" width="150" alt="sigil.png">
+  <img src="static/logo.png" width="100" alt="sigil.png">
 </p>
+
+# VoidNote
+
+# Voidnote[README.md](https://github.com/user-attachments/files/23010561/README.md)
 
 # VoidNote
 
