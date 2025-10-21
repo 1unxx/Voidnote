@@ -1,10 +1,9 @@
 <p align="center">
   <img src="static/logo.png" width="100" alt="sigil.png">
 </p>
-
+[README.md](https://github.com/user-attachments/files/23010561/README.md)
 # VoidNote
 
-[README.md](https://github.com/user-attachments/files/23010561/README.md)
 
 
 VoidNote is a small web project built around encrypted, self destructing “notes.”  <img width="1024" height="1024" alt="sigil" src="https://github.com/user-attachments/assets/e22ffc30-9c28-40e9-87eb-c7c17e429f7b" />
