@@ -4,11 +4,11 @@
 
 # VoidNote
 
-It is pretty simple, private, and came up with it during a one week dive after reading *Python Cryptography* by Anish Nath (2018) Like a while ago, I happened to stuble upon it today so I decided to upload it here as this account is dead.
+It is pretty simple, private, and came up with it during a one week dive after reading *Python Cryptography* by Anish Nath (2018) Like a while ago, I happened to stuble upon this project today so I decided to upload it here as this account is dead. Made some tweaks to it since I found it but it's nowehre near something I'm proud of.
 
 ### what it is for
 honestly it can be anything from passing along a password,  
-to a private journalist transferring fragile material.  
+to a journalist transferring fragile material.  
 use it when you want a message to exist only long enough to do its job >_>
 
 ### how it works
@@ -21,3 +21,4 @@ but because most browsers are packed with trackers and weak extensions that leak
 (none of this is encouragement for bad behavior, it is just practical advice.) Thus use it in a safe space.
 
 {If you want root control of logs and network, need to self host in a specific jurisdiction, or want to audit every layer of the stack, run VoidNote on your own VPS or bare metal. same code, more control. (not a how to for breaking laws just the system design.)}
+PS: I moved this from my vps on RENDER tied to an uptime software as I couldnt be bothered to have this on my own server. 
