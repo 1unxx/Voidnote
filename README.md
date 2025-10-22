@@ -24,12 +24,11 @@ you can add a passphrase, require two keys to unlock, or just let the system han
 
 
 ### reminder
-if i were you i would not use this for illegal stuff not out of moral policing,  
-but because most browsers are packed with trackers and weak extensions that leak data anyway.  
+if i were you i would not use this for illegal "activity's" not out of moral policing,  
+but because I moved this from my vps to Render and tied it up with an uptime software, so if youre planning illegal activity's dont rely on this as I no longer hold control over logs.
 (none of this is encouragement for bad behavior, it is just practical advice.)  
-thus, use it in a safe space.
+thus, use it in a safe space. 
 
 
-{If you want root control of logs and network, need to self host in a specific jurisdiction, or want to audit every layer of the stack, run VoidNote on your own VPS or bare metal. same code, more control. (not a how-to for breaking laws, just the system design.)}
+{If you want root control of logs and network, need to self host in a specific jurisdiction, or want to audit every layer of the stack, run VoidNote on your own VPS or bare metal. same code, more control. (not a how to for breaking laws, just the system design.)}
 
-PS: I moved this from my VPS on Render tied to an uptime software, as I couldn’t be bothered to host it on my own server.
