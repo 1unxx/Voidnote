@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="./sigil-v2.png" width="520" height="520" alt="sigil">
+  <a href="https://raw.githubusercontent.com/1unxx/Voidnote/main/sigil-v2.png">
+    <img src="./sigil-v2.png?v=2" width="520" height="520" alt="sigil">
+  </a>
 </p>
 
-<p align="center">
-  <img src="./sigil-v2.png" width="100" alt="sigil small">
-</p>
 
 # VoidNote
 
