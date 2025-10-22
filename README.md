@@ -32,3 +32,5 @@ thus, use it in a safe space.
 
 {If you want root control of logs and network, need to self host in a specific jurisdiction, or want to audit every layer of the stack, run VoidNote on your own VPS or bare metal. same code, more control. (not a how to for breaking laws, just the system design.)}
 
+I'll add decent mobile integration soon... hopefully.
+
