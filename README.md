@@ -7,7 +7,7 @@
 
 # VoidNote
 
-It is pretty simple, private, and came up with it during a one week dive after reading *Python Cryptography* by Anish Nath (2018)  
+It is pretty private and simple, I came up with it during a one week dive after reading *Python Cryptography* by Anish Nath (2018)  
 like a while ago, I happened to stumble upon this project today so I decided to upload it here as this account is dead.  
 Made some tweaks to it since I found it but it's nowhere near something I'm proud of.
 
